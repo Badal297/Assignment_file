@@ -1,0 +1,3 @@
+com\khabri\exchangerate\rest\Application.class
+com\khabri\exchangerate\rest\impl\ExchangeRateServiceImpl.class
+com\khabri\exchangerate\rest\ExchangeRateService.class
